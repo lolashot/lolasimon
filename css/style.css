@@ -21,8 +21,11 @@ margin-left: 170px;
 
   }
   body {
+      border: 1px;
+
   color: white;
 background-image: url("../images/person1.jpg");
+background-color: #57588f;
 
   }
   
