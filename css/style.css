@@ -17,8 +17,12 @@
 background-color: #292948;
 padding: 60px;
 margin-left: 170px;
+  opacity: 0.9;
+
   }
-  body{
-color: white;
+  body {
+  color: white;
+background-image: url("../images/person1.jpg");
+
   }
   
